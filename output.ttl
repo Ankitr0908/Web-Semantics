@@ -1,0 +1,131 @@
+_:1 <description> """An in-depth look at creating applications 
+      with XML.""" .
+_:1 <publish_date> """2000-10-01""" .
+_:1 <price> """44.95""" .
+_:1 <genre> """Computer""" .
+_:1 <title> """XML Developer's Guide""" .
+_:1 <author> """Gambardella, Matthew""" .
+_:1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <book>.
+_:0 <http://acandonorway.github.com/XmlToRdf/ontology.ttl#hasChild> _:1.
+_:1 <id> """bk101""" .
+_:8 <description> """A former architect battles corporate zombies, 
+      an evil sorceress, and her own childhood to become queen 
+      of the world.""" .
+_:8 <publish_date> """2000-12-16""" .
+_:8 <price> """5.95""" .
+_:8 <genre> """Fantasy""" .
+_:8 <title> """Midnight Rain""" .
+_:8 <author> """Ralls, Kim""" .
+_:8 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <book>.
+_:0 <http://acandonorway.github.com/XmlToRdf/ontology.ttl#hasChild> _:8.
+_:8 <id> """bk102""" .
+_:15 <description> """After the collapse of a nanotechnology 
+      society in England, the young survivors lay the 
+      foundation for a new society.""" .
+_:15 <publish_date> """2000-11-17""" .
+_:15 <price> """5.95""" .
+_:15 <genre> """Fantasy""" .
+_:15 <title> """Maeve Ascendant""" .
+_:15 <author> """Corets, Eva""" .
+_:15 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <book>.
+_:0 <http://acandonorway.github.com/XmlToRdf/ontology.ttl#hasChild> _:15.
+_:15 <id> """bk103""" .
+_:22 <description> """In post-apocalypse England, the mysterious 
+      agent known only as Oberon helps to create a new life 
+      for the inhabitants of London. Sequel to Maeve 
+      Ascendant.""" .
+_:22 <publish_date> """2001-03-10""" .
+_:22 <price> """5.95""" .
+_:22 <genre> """Fantasy""" .
+_:22 <title> """Oberon's Legacy""" .
+_:22 <author> """Corets, Eva""" .
+_:22 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <book>.
+_:0 <http://acandonorway.github.com/XmlToRdf/ontology.ttl#hasChild> _:22.
+_:22 <id> """bk104""" .
+_:29 <description> """The two daughters of Maeve, half-sisters, 
+      battle one another for control of England. Sequel to 
+      Oberon's Legacy.""" .
+_:29 <publish_date> """2001-09-10""" .
+_:29 <price> """5.95""" .
+_:29 <genre> """Fantasy""" .
+_:29 <title> """The Sundered Grail""" .
+_:29 <author> """Corets, Eva""" .
+_:29 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <book>.
+_:0 <http://acandonorway.github.com/XmlToRdf/ontology.ttl#hasChild> _:29.
+_:29 <id> """bk105""" .
+_:36 <description> """When Carla meets Paul at an ornithology 
+      conference, tempers fly as feathers get ruffled.""" .
+_:36 <publish_date> """2000-09-02""" .
+_:36 <price> """4.95""" .
+_:36 <genre> """Romance""" .
+_:36 <title> """Lover Birds""" .
+_:36 <author> """Randall, Cynthia""" .
+_:36 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <book>.
+_:0 <http://acandonorway.github.com/XmlToRdf/ontology.ttl#hasChild> _:36.
+_:36 <id> """bk106""" .
+_:43 <description> """A deep sea diver finds true love twenty 
+      thousand leagues beneath the sea.""" .
+_:43 <publish_date> """2000-11-02""" .
+_:43 <price> """4.95""" .
+_:43 <genre> """Romance""" .
+_:43 <title> """Splish Splash""" .
+_:43 <author> """Thurman, Paula""" .
+_:43 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <book>.
+_:0 <http://acandonorway.github.com/XmlToRdf/ontology.ttl#hasChild> _:43.
+_:43 <id> """bk107""" .
+_:50 <description> """An anthology of horror stories about roaches,
+      centipedes, scorpions  and other insects.""" .
+_:50 <publish_date> """2000-12-06""" .
+_:50 <price> """4.95""" .
+_:50 <genre> """Horror""" .
+_:50 <title> """Creepy Crawlies""" .
+_:50 <author> """Knorr, Stefan""" .
+_:50 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <book>.
+_:0 <http://acandonorway.github.com/XmlToRdf/ontology.ttl#hasChild> _:50.
+_:50 <id> """bk108""" .
+_:57 <description> """After an inadvertant trip through a Heisenberg
+      Uncertainty Device, James Salway discovers the problems 
+      of being quantum.""" .
+_:57 <publish_date> """2000-11-02""" .
+_:57 <price> """6.95""" .
+_:57 <genre> """Science Fiction""" .
+_:57 <title> """Paradox Lost""" .
+_:57 <author> """Kress, Peter""" .
+_:57 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <book>.
+_:0 <http://acandonorway.github.com/XmlToRdf/ontology.ttl#hasChild> _:57.
+_:57 <id> """bk109""" .
+_:64 <description> """Microsoft's .NET initiative is explored in 
+      detail in this deep programmer's reference.""" .
+_:64 <publish_date> """2000-12-09""" .
+_:64 <price> """36.95""" .
+_:64 <genre> """Computer""" .
+_:64 <title> """Microsoft .NET: The Programming Bible""" .
+_:64 <author> """O'Brien, Tim""" .
+_:64 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <book>.
+_:0 <http://acandonorway.github.com/XmlToRdf/ontology.ttl#hasChild> _:64.
+_:64 <id> """bk110""" .
+_:71 <description> """The Microsoft MSXML3 parser is covered in 
+      detail, with attention to XML DOM interfaces, XSLT processing, 
+      SAX and more.""" .
+_:71 <publish_date> """2000-12-01""" .
+_:71 <price> """36.95""" .
+_:71 <genre> """Computer""" .
+_:71 <title> """MSXML3: A Comprehensive Guide""" .
+_:71 <author> """O'Brien, Tim""" .
+_:71 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <book>.
+_:0 <http://acandonorway.github.com/XmlToRdf/ontology.ttl#hasChild> _:71.
+_:71 <id> """bk111""" .
+_:78 <description> """Microsoft Visual Studio 7 is explored in depth,
+      looking at how Visual Basic, Visual C++, C#, and ASP+ are 
+      integrated into a comprehensive development 
+      environment.""" .
+_:78 <publish_date> """2001-04-16""" .
+_:78 <price> """49.95""" .
+_:78 <genre> """Computer""" .
+_:78 <title> """Visual Studio 7: A Comprehensive Guide""" .
+_:78 <author> """Galos, Mike""" .
+_:78 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <book>.
+_:0 <http://acandonorway.github.com/XmlToRdf/ontology.ttl#hasChild> _:78.
+_:78 <id> """bk112""" .
+_:0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <catalog>.
+_:0 <http://www.w3.org/2001/XMLSchema-instance#noNamespaceSchemaLocation> """input.xsd""" .
